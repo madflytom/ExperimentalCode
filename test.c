@@ -44,7 +44,7 @@ int main (void)
 	
 	int x = sum (54444, 5432211);
 	
-	printf ("%d", x);
+	printf ("%d",  x);
 }
 
 int sum (int a, int b)
