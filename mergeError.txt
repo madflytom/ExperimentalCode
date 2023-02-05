@@ -1,0 +1,4 @@
+Reading package lists... Error!
+E: Encountered a section with no Package: header
+E: Problem with MergeList /var/lib/apt/lists/deb.debian.org_debian_dists_bullseye_main_binary-arm64_Packages
+E: The package lists or status file could not be parsed or opened.

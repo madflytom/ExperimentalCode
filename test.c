@@ -45,6 +45,12 @@ int main (void)
 	int x = sum (54444, 5432211);
 	
 	printf ("%d",  x);
+	
+	int i;
+	for (i = 0; i<=100000; i++)
+	{
+		printf ("%d\n", i);
+	}
 }
 
 int sum (int a, int b)
